@@ -1,4 +1,4 @@
-# 
+# 高级 DaVinci Resolve PC版 扩展 是最佳 DaVinci Resolve PC版 扩展，集成 标题动画 和 均衡器。安全、可靠、优化，性能最大化。
 
 
 
